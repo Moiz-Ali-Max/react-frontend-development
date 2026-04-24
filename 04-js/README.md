@@ -49,5 +49,23 @@ We can change datatype
 2. Arrays
 3. Functions
 
+### Operators
+1. Arithmetic Operator(+, -, *, /, %, **)
+2. Assignment Operator
+3. Pre/Post Increment & Decrement Operator
+4. Comparison Operator
+    - Equality Operator
+        1. Loose Equality (==)
+        2. Strick Equality (===)
+5. Ternary Operator / Conditional Operator
+6. Logical Operator
+with boleeans;
+    - AND
+    - OR
+    - NOT
+with non-booleans;
+7. Bitwise Operator
+    - Bitwise AND
+    - Bitwise OR
 
-
+#### Operator Precedence

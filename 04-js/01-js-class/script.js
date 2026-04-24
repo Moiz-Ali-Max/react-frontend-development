@@ -26,3 +26,9 @@ console.log(a1)
 
 a1 = "moiz"
 console.log(a1)
+
+// Ternay Operator
+let age = 24
+let status = (age >= 19) ? "You can vote" : "You cannot Vote"
+
+console.log(status)
