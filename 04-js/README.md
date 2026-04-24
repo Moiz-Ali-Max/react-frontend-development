@@ -74,3 +74,27 @@ with non-booleans;
 1. If-else
 2. Switch
      - Mapping
+
+### Loops
+- For Loop
+    ```
+    for (let i = 0; i < 5; i = i+1) {
+        console.log(i); 
+    }
+    ```
+- While Loop
+    ```
+    let i = 0;
+    while (i < 5) {
+        console.log(i);
+        i = i + 1;
+    }
+    ```
+- Do-While Loop
+    ```
+    let i =0;
+    do {
+        console.log(i);
+        i = i + 1;
+    } while (i < 5);
+    ```

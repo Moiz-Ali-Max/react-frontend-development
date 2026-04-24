@@ -78,3 +78,22 @@ switch (num) {
 
 }
 
+// Loops
+// 1.For Loop
+for (let i = 0; i < 5; i = i+1) {
+    console.log("Moiz " + i);
+}
+
+// 2. While Loop
+let i = 0;
+while (i < 5) {
+    console.log("Ali " + i);
+    i = i + 1;
+}
+
+// 3. Do-While Loop
+let j = 0;
+do {
+    console.log("Afzaal " + j);
+    j = j + 1;
+} while (j < 5);
