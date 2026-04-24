@@ -32,3 +32,49 @@ let age = 24
 let status = (age >= 19) ? "You can vote" : "You cannot Vote"
 
 console.log(status)
+
+// Conditonal Statement
+
+marks = 8;
+
+if (marks >= 90 ) {
+    console.log("A")
+}
+
+else if(marks >= 80) {
+    console.log("B")
+}
+
+else if (marks >= 70) {
+    console.log("C")
+}
+
+else if (marks >= 60) {
+    console.log("D")
+}
+
+else {
+    console.log("F")
+}
+
+// Switch Case
+let num = 3
+
+switch (num) {
+    case 1:
+        console.log('A');
+        break;
+
+    case 2:
+        console.log("C");
+        break;
+
+    case 3:
+        console.log("C");
+        break;
+
+    default:
+        console.log("D")
+
+}
+

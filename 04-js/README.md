@@ -69,3 +69,8 @@ with non-booleans;
     - Bitwise OR
 
 #### Operator Precedence
+
+### Control Statement
+1. If-else
+2. Switch
+     - Mapping
