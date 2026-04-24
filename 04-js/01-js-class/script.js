@@ -19,3 +19,10 @@ console.log(c)
 
 const d = 20
 console.log(d)
+
+//Dynamic Typing
+let a1 = 100
+console.log(a1)
+
+a1 = "moiz"
+console.log(a1)
